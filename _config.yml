@@ -1,15 +1,15 @@
 # Site settings
-title: Faymi Blog
-SEOTitle: Faymi Blog
+title: 夏城 Blog
+SEOTitle: 夏城 Blog
 header-img: img/post-bg-desk.jpg
-email: faymilin@outlook.com
+email: zhanxiachengzxc@sina.com
 description: "Live as if you were to die tomorrow. Learn as if you were to live forever."
-keyword: "Faymi, Faymi Blog, web, 前端, "
-url: "http://faymi.github.io"          # your host, for absolute URL
+keyword: "ShadowZxc, 夏城 Blog, web, 后台, "
+url: "https://ShadowZxc.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/faymi/faymi.github.io.git" # you code repository
+github_repo: "https://github.com/ShadowZxc/ShadowZxc.github.io" # you code repository
 logo: /img/logo-64.png
-recordNum: 粤ICP备18042434号-1 # 备案号
+recordNum: 备案号暂无 #粤ICP备18042434号-1 # 备案号
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
@@ -20,12 +20,12 @@ sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     faymi
-#zhihu_username:     faymi
-github_username:    faymi
-#facebook_username:  faymi
-#jianshu_username:   faymi
-#twitter_username:   faymi
+# weibo_username:     shadowzxc
+#zhihu_username:     shadowzxc
+github_username:    shadowzxc
+#facebook_username:  shadowzxc
+#jianshu_username:   shadowzxc
+#twitter_username:   shadowzxc
 
 
 
@@ -59,16 +59,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: faymilin
+# disqus_username: shadowzxc
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7e979d3e9e43d81cba49                            #生成的clientID
-  clientSecret: 1fde88e2bc1851c89591b6129b4447fc222e87ab    #生成的clientSecret
-  repo: faymi.github.io    #仓库名称 -> 存储你评论 issue 的 Github 仓库名
-  owner: faymi    #github用户名
-  admin: faymi
+  clientID: dcb71993184db7731eed                            #生成的clientID
+  clientSecret: 919247b52c3bfca6190a951751ad8c51971edee5    #生成的clientSecret
+  repo: ShadowZxc.github.io    #仓库名称 -> 存储你评论 issue 的 Github 仓库名
+  owner: ShadowZxc    #github用户名
+  admin: ShadowZxc
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -82,8 +82,8 @@ gitalk:
 ba_track_id: ''
 
 # Google Analytics
-ga_track_id: 'UA-139898215-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.eseeto.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-139898215-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
