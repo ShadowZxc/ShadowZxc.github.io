@@ -1,6 +1,6 @@
 ## 个人博客
 
-- [查看博客戳这里 👆](http://blog.eseeto.com)
+- [查看博客戳这里 👆](https://ShadowZxc.github.io)
 
 
 - 二维码扫描浏览
